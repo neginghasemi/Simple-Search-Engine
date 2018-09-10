@@ -1,4 +1,5 @@
 # Simple-Search_Engine
+Implementation of a large text file retrieval system using Apache Lucene.
 
 ## Introduction
  - Implementation of a simple search engine using tf-idf. I used trie data structure for document indexing to improve speed, and memory usage.
