@@ -1,4 +1,4 @@
-# Simple-Search_Engine
+# Simple-Search-Engine
 Implementation of a large text file retrieval system using Apache Lucene.
 
 ## Introduction
